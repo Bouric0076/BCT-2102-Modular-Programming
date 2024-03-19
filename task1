@@ -1,0 +1,6 @@
+prompt= "Enter the first number"
+num1= input(prompt)
+prompt2=" Enter the second number"
+num2= input(prompt2)
+result= num1+num2
+print(" The result of " ,num1, "and",  num2, "is", result)
